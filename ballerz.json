@@ -67732,7 +67732,7 @@
     "mvp": false
   },
   {
-    "id": 1119,
+    "id": 119,
     "team": "Portland Bats",
     "accessories": [
       "None"
@@ -67750,13 +67750,12 @@
     "role": "Player",
     "jersey": "Away",
     "body": "Human III",
-    "face": "Pink Lipstick",
-    "gender": "W",
-    "hairColor": "Blonde",
-    "hairStyle": "Medium",
-    "skillRank": 7549,
-    "traitRank": 1047,
-    "comboRank": 3219,
+    "gender": "M",
+    "hairColor": "Brown",
+    "hairStyle": "Moptop",
+    "skillRank": 672,
+    "traitRank": 9284,
+    "comboRank": 5205,
     "mvp": false
   },
   {
